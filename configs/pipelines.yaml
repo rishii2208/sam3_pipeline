@@ -1,0 +1,11 @@
+p2:
+  segmentation: S0
+  detector: D2
+  counting: C1
+  description: "Raw RGB + SAM3 attention detector + box counting"
+
+p3:
+  segmentation: S1
+  detector: D2
+  counting: C1
+  description: "HSV mask preprocessing + SAM3 attention detector + box counting"

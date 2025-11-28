@@ -1,0 +1,10 @@
+torch==2.3.1
+torchvision==0.18.1
+opencv-python==4.10.0.84
+numpy==1.26.4
+pandas==2.2.2
+pyyaml==6.0.1
+tqdm==4.66.5
+kaggle==1.6.17
+matplotlib==3.9.0
+scikit-learn==1.5.1

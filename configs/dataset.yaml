@@ -1,0 +1,19 @@
+dataset:
+  name: fruits_detection
+  source: kaggle://afsananadia/fruits-images-dataset-object-detection
+  local_dir: data/fruits
+  train_split: 0.7
+  val_split: 0.15
+  test_split: 0.15
+  image_size: [640, 640]
+  classes:
+    - apple
+    - banana
+    - grapes
+    - guava
+    - hogplum
+    - jackfruit
+    - litchi
+    - mango
+    - orange
+    - papaya
